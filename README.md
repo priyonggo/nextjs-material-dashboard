@@ -72,7 +72,7 @@ It is open source, and it's Github Repo can be found [here](https://github.com/c
 Quick start options:
 
 - `npm i nextjs-material-dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/nextjs-material-dashboard.git`.
+- Clone the repo: `git clone https://github.com/priyonggo/nextjs-material-dashboard.git`.
 - [Download from Github](https://github.com/creativetimofficial/nextjs-material-dashboard/archive/master.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/nextjs-material-dashboard).
 
